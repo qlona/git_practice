@@ -1,2 +1,2 @@
-Hello git, I love qlona.
+Hello git
 
